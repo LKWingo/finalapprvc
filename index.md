@@ -18,7 +18,7 @@ GITA Radio
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http:/www.gitaradio.com) and ![Image](gitaglobe.jpeg)
+[Link](http:/www.gitaradio.com) and ![Image](gita1lobe.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
