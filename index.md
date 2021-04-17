@@ -1,4 +1,4 @@
-## Welcome to my final app
+## Welcome to my Final App
 
 GITA Radio
 
